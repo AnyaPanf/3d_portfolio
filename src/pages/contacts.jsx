@@ -55,7 +55,7 @@ export const Contacts = () => {
 
   return (
     <section className="relative flex lg:flex-row flex-col max-container">
-      {alert.show && <Aleert {...alert} />}
+      {alert.show && <Alert {...alert} />}
       <div className="flex-1 min-w-[50%] flex flex-col">
         <h1 className="head-text">Get in  touch</h1>
         <form className="w-ful flex flex-col gap-7 mt-14">

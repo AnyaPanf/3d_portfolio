@@ -1,5 +1,5 @@
 import { useAnimations, useGLTF } from '@react-three/drei';
-import birdScene from '../../assets/3d/plane.glb';
+import birdScene from '../assets/3d/plane.glb';
 import { useEffect, useRef } from 'react';
 
 export const Plane = ({ isRotating, ...props }) => {

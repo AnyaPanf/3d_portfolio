@@ -56,4 +56,4 @@ export {
     contact,
     soundon,
     soundoff
-}
+};
