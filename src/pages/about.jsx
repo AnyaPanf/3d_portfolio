@@ -84,8 +84,8 @@ export const About = () => {
         </div>
       </div>
 
-      <hr className="border-slate-200"/>
-<Cta />
+      <hr className="border-slate-200" />
+      <Cta />
     </section>
   )
 };

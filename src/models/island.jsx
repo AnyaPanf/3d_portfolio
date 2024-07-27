@@ -60,9 +60,11 @@ export const Island = ({ isRotating, setIsRotating, setCurrentStage, ...props })
             if (!isRotating) {
                 setIsRotating(true);
                 islandRef.current.rotation.y += 0.005 * Math.PI;
+                rotationSpeed.current = 0.0125;
             } else if (e.key === 'ArrowRight') {
                 setIsRotating(true);
                 islandRef.current.rotation.y -= 0.01 * Math.PI;
+                rotationSpeed.current = -0.0125;
             }
         }
     };

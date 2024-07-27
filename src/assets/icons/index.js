@@ -55,5 +55,5 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
 };
