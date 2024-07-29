@@ -2,7 +2,7 @@
 
 Discover a wonderful island in a 3D portfolio template.
 A training project fulfilled to try working with 3D.
-The working project can be found [here]([https://link-url-here.org](https://3d-portfolio-template-euaww7o84-panfanns-projects.vercel.app/).
+The working project can be found [here](https://3d-portfolio-template-euaww7o84-panfanns-projects.vercel.app/).
 
 ## Technologies
 - JavaScript
